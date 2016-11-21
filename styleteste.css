@@ -1,0 +1,45 @@
+header
+{
+background : orange ;
+border-width : 3px ; 
+border-style : double ;
+border-radius : 10px ;
+box-shadow : 6px 6px 0px black ;
+width : 20% ;
+margin-left : 40%
+}
+.logo
+{
+top : 20% ;
+margin-left : 30% ;
+}
+section
+{
+width : 55%;
+background : orange ;
+margin-left : 25% ;
+position : absolute
+left : 20px ;
+top : 20% ;
+border-width : 3px ; 
+border-style : solid ;
+border-radius : 10px ;
+padding-left : 1em ;
+}
+footer
+{
+width : 55%;
+background : orange ;
+margin-left : 24% ;
+position : absolute ;
+left : 20px ;
+top : 65% ;
+border-width : 3px ; 
+border-style : solid ;
+border-radius : 10px ;
+padding-left : 1em ;
+}
+.txtfooter
+{
+margin-left: 75%;
+}
